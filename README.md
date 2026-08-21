@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushanupam7/DSA/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Ayushanupam7/DSA/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Ayushanupam7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushanupam7/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -51,4 +53,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
