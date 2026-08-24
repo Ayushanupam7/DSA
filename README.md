@@ -73,4 +73,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushanupam7/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayushanupam7/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ayushanupam7/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
