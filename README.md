@@ -8,12 +8,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushanupam7/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/Ayushanupam7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ayushanupam7/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushanupam7/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushanupam7/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ayushanupam7/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushanupam7/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Ayushanupam7/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 <!---LeetCode Topics End-->
