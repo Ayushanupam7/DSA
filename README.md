@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushanupam7/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/Ayushanupam7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayushanupam7/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@
 | [0001-two-sum](https://github.com/Ayushanupam7/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushanupam7/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayushanupam7/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -35,6 +37,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushanupam7/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +67,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushanupam7/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayushanupam7/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
