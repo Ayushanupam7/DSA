@@ -3,19 +3,20 @@ class Solution:
         current = "1"
 
         for _ in range(n - 1):
-            next_str = ""
+            result = []
             i = 0
 
             while i < len(current):
-                count = 0
-                ch = current[i]
+                j = i
 
-                while i < len(current) and current[i] == ch:
-                    count += 1
-                    i += 1
+                while j < len(current) and current[j] == current[i]:
+                    j += 1
 
-                next_str += str(count) + ch
+                result.append(str(j - i))
+                result.append(current[i])
 
-            current = next_str
+                i = j
+
+            current = "".join(result)
 
         return current
