@@ -25,6 +25,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ayushanupam7/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ayushanupam7/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushanupam7/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/Ayushanupam7/DSA/tree/main/0038-count-and-say/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
