@@ -9,6 +9,6 @@ class Solution:
             else:
                 count[nums[i]] = 1   # pehli baar mila, count 1
 
-            # majority element n/2 se zyada baar hona chahiye
+            # majority element n/2 se zyada baar hona chahiye..
             if count[nums[i]] > len(nums) / 2:
                 return nums[i]
