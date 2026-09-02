@@ -30,6 +30,7 @@
 | [0020-valid-parentheses](https://github.com/Ayushanupam7/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushanupam7/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Ayushanupam7/DSA/tree/main/0038-count-and-say/) | Medium |
+| [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ayushanupam7/DSA/tree/main/0231-power-of-two/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -124,6 +126,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/Ayushanupam7/DSA/tree/main/0231-power-of-two/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -133,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ayushanupam7/DSA/tree/main/0075-sort-colors/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
