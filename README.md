@@ -67,6 +67,7 @@
 | [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ayushanupam7/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Ayushanupam7/DSA/tree/main/0258-add-digits/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +141,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Ayushanupam7/DSA/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Ayushanupam7/DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
