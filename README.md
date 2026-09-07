@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Ayushanupam7/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Ayushanupam7/DSA/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/Ayushanupam7/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ayushanupam7/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [0075-sort-colors](https://github.com/Ayushanupam7/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Ayushanupam7/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
