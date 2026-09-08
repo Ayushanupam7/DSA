@@ -33,6 +33,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushanupam7/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Ayushanupam7/DSA/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/Ayushanupam7/DSA/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0027-remove-element](https://github.com/Ayushanupam7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayushanupam7/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Ayushanupam7/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/Ayushanupam7/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushanupam7/DSA/tree/main/0283-move-zeroes/) | Easy |
