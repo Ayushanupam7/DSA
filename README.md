@@ -34,6 +34,7 @@
 | [0038-count-and-say](https://github.com/Ayushanupam7/DSA/tree/main/0038-count-and-say/) | Medium |
 | [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ayushanupam7/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/Ayushanupam7/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushanupam7/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Ayushanupam7/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
