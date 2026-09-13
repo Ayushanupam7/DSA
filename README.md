@@ -74,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Ayushanupam7/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ayushanupam7/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Ayushanupam7/DSA/tree/main/0258-add-digits/) | Easy |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushanupam7/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Ayushanupam7/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Ayushanupam7/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushanupam7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushanupam7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
@@ -173,4 +175,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayushanupam7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Ayushanupam7/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
