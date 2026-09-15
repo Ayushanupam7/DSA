@@ -75,6 +75,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Ayushanupam7/DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Ayushanupam7/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Ayushanupam7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Ayushanupam7/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ayushanupam7/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Ayushanupam7/DSA/tree/main/0258-add-digits/) | Easy |
@@ -99,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushanupam7/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/Ayushanupam7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +186,8 @@
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Ayushanupam7/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ayushanupam7/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Ayushanupam7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
